@@ -56,6 +56,7 @@ Next class will focus on installing Ubuntu OS to your lab computer.
 - BIOS
 - CMOS Battery
 - Startup Sequence
+- POST
 
 #### Execute
 
