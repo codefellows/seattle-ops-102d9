@@ -42,9 +42,11 @@ Next class will focus on installing Ubuntu OS to your lab computer.
 - The work we do on our lab computers today will setup our cyber range for labs in the future courses.
 
 ### Experimentation and Discovery Ideas
+- Create a flowchart that shows the startup sequence for a typical computer.
 - What happens if the CMOS battery dies?
 - How do you find out what key(s) to press to enter BIOS?
 - What does a CMOS jumper do?
+- What do all the different settings in BIOS do? Make a list and explain them.
 
 ## Learning Objectives
 
