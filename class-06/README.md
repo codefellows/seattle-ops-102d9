@@ -12,7 +12,7 @@
 
 In this class, we'll be exploring how to setup a small network and working with some new tools.
 
-## How does this topic fit?
+<!-- ## How does this topic fit?
 
 **Where we've been**:
 In the previous class ...
@@ -43,7 +43,7 @@ Next class will focus on ..
 ### Experimentation and Discovery Ideas
   - Provide some ideas here for how the instructor can be interactive with the students
   - Can this be built using the Socratic method?
-  - Can we use breakout or small group sessions
+  - Can we use breakout or small group sessions -->
 
 ## Learning Objectives
 
@@ -60,11 +60,11 @@ Next class will focus on ..
 
 - Setup a working SOHO Network
 
-## Helpful Resources
+<!-- ## Helpful Resources
 
 <!-- If needed, add these here, otherwise delete this section -->
 - [Cheat Sheet](){:target="blank"}
-- etc.
+- etc. -->
 
 ## Notes
 - List 1 new thing that you learned today.
