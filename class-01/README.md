@@ -88,8 +88,8 @@ Next class we will disassemble our lab computers, take an inventory of every com
 
 ## Notes
 
-1. Where do all reading submissions live?
-1. What is the difference between a repo and a wiki?
-1. When submitting your Google Doc, why is it important to share the link with comment permission?
-1. What is VS Code used for?
-1. List 1 new thing that you learned today.
+- List 1 new thing that you learned today.
+- Where do all reading submissions live?
+- What is the difference between a repo and a wiki?
+- When submitting your Google Doc, why is it important to share the link with comment permission?
+- What is VS Code used for?

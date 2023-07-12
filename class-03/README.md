@@ -75,4 +75,5 @@ Next class will focus on installing Ubuntu OS to your lab computer.
   - Try out the IdeaCentre 310-15ASR (90G5).
 
 ## Notes
-1. List 1 new thing that you learned today.
+
+- List 1 new thing that you learned today.

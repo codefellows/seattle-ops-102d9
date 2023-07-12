@@ -67,4 +67,5 @@ Next class will focus on updating your OS and installing applications.
 - [TryHackMe](https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=Linux){:target="_blank"}
 
 ## Notes
-1. List 1 new thing that you learned today.
+
+- List 1 new thing that you learned today.

@@ -73,6 +73,7 @@ Next class will focus on setting up our SOHO network using our lab router.
 - [How to Install Virtualbox on Ubuntu](https://itsfoss.com/install-virtualbox-ubuntu/){:target="_blank"}
 
 ## Notes
+- List 1 new thing that you learned today.
 
 ### Linux Commands
 - `CTRL+C`
@@ -100,3 +101,4 @@ Next class will focus on setting up our SOHO network using our lab router.
 - `[command name] -[modifier/flag parameter] [target/action parameter]`
   - This is the general syntax for performing an action with a command in the Linux terminal.
   - You can use various commands with specific flags or modifiers to perform different actions on specific targets.
+

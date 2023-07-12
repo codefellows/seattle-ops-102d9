@@ -91,4 +91,5 @@ Next class will focus on the start up sequence and explore the BIOS of our lab c
 - Subscribe to this Playlist for future reference: [How Computers Work series](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
 
 ## Notes
-1. List 1 new thing that you learned today.
+
+- List 1 new thing that you learned today.
