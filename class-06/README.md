@@ -62,7 +62,6 @@ Next class will focus on ..
 
 <!-- ## Helpful Resources
 
-<!-- If needed, add these here, otherwise delete this section -->
 - [Cheat Sheet](){:target="blank"}
 - etc. -->
 
