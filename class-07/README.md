@@ -87,3 +87,7 @@ Next class will focus on .. -->
   - Stop the SSH server.
 - `sudo systemctl restart ssh.service`
   - Restart the SSH server.
+
+# Lab Topology
+
+![Lab 07 Topology](./assets/lab07-topology.png)
