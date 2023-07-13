@@ -36,6 +36,7 @@ Next class will focus on .. -->
 - What are protocols?
 - What does a DHCP server do?
 - What is the diffence between static IP, dynamic IP and reserved IP addresses?
+- How do I exit my SSH connection in the terminal?
 
 <!-- ### How
 - What does the code we need to write have to do to solve these problems?
