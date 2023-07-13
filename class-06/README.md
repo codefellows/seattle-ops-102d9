@@ -23,7 +23,7 @@ Today, we'll be doing ...
 **Where we're headed**:
 Next class will focus on ..
 
-## Topic Name Here
+## SOHO Networking
 
 ### Why
 - This topic is important because ...
@@ -43,7 +43,8 @@ Next class will focus on ..
 ### Experimentation and Discovery Ideas
   - Provide some ideas here for how the instructor can be interactive with the students
   - Can this be built using the Socratic method?
-  - Can we use breakout or small group sessions -->
+  - Can we use breakout or small group sessions 
+  - What is the difference between IPv4 and IPv6? -->
 
 ## Learning Objectives
 
